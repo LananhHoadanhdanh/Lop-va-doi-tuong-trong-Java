@@ -14,13 +14,13 @@ public class QuadraticEquation {
         this.c = c;
     }
 
-    public void gettterA(double a) {
+    public void getA(double a) {
         this.a = a;
     }
-    public void gettterB(double b) {
+    public void getB(double b) {
         this.a = b;
     }
-    public void gettterC(double c) {
+    public void getC(double c) {
         this.a = c;
     }
     public double getDiscriminant() {
